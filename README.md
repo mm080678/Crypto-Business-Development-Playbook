@@ -1,213 +1,163 @@
-# Amanda Wong-portfolio
-Marketing strategy profile showcasing data-driven campaigns, media partnerships, and APAC market experience.
-# 👋 Hi, I'm Amanda Wong
-
-**Web3 Product Marketing & Growth Strategist**  
-**APAC Market Specialist | Founder Advisor (Marketing & GTM)**  
-📍 London, UK  
+# Crypto Business Development Playbook  
+## Partnerships · Market Expansion · Ecosystem Strategy (Global & APAC)
 
 ---
 
-## 🚀 What I Do
+## Why This Exists
 
-I help **Web3 products scale from early-stage to growth** through:
+Most crypto projects fail in international expansion not because of product — but because they misunderstand how different markets operate.
 
-- Product positioning & narrative design  
-- Go-to-market strategy (GTM)  
-- Content-led growth & distribution systems  
-- Market expansion across APAC  
+Global crypto growth is not uniform.
 
-I operate at the intersection of:
+Each region — including APAC, Europe, and emerging markets — is driven by different:
 
-**Product × Marketing × Growth × Strategy**
+- user behaviour  
+- regulatory environments  
+- distribution channels  
 
----
+While strategies may start globally, execution is always local.
 
-## 🧠 My Positioning
+Growth is not driven by ads.
 
-I am not a traditional marketer.
+It is driven by:
 
-👉 I act as a **strategic marketing partner to founders**, helping them:
-
-- Define their product narrative  
-- Find product-market fit through messaging  
-- Build scalable acquisition systems  
+→ **partnerships, ecosystem positioning, and regional execution**
 
 ---
 
-## 🧩 My Approach: Narrative × Distribution
+## What This Playbook Covers
 
-Most Web3 projects struggle not because of product…
+This repository outlines how crypto and Web3 projects can expand across global markets, with a focus on APAC as a key growth region.
 
-👉 But because of **unclear positioning and weak distribution**
+It covers:
 
----
-
-### 🔹 Core Framework
-
-**Narrative**
-↓
-**Content / Distribution**
-↓
-**User Acquisition**
-↓
-**Product Adoption**
-↓
-**Revenue**
+- ecosystem partnerships across global and regional players  
+- exchange and wallet distribution strategies  
+- localised go-to-market execution  
+- cross-border expansion frameworks  
 
 ---
 
-## 📦 What I Work On
+## Global Market Perspective
 
-### 🔹 1. Product Positioning
+### Core Global Hubs
 
-- Define clear value propositions  
-- Translate complex protocols into simple narratives  
-- Align messaging with target users & investors  
-
----
-
-### 🔹 2. Go-To-Market Strategy
-
-- Launch strategy for early-stage products  
-- Market entry (especially APAC / China)  
-- Channel selection & distribution planning  
+- United States → capital markets, institutional players  
+- Europe → regulatory frameworks and fintech adoption  
+- Middle East → emerging capital and crypto-friendly environments  
 
 ---
 
-### 🔹 3. Growth Systems (Not Campaigns)
+### APAC as a Growth Engine
 
-- Content flywheel (SEO + Social)  
-- KOL / influencer distribution  
-- Funnel design (traffic → user → revenue)  
-
----
-
-## 💼 Selected Experience
-
-### 🔹 Regional Manager (APAC)  
-**Clickout Media (Global Marketing Agency)**  
-
-- Led APAC (China, Hong Kong, Taiwan) growth strategy  
-- Worked with global crypto clients including:
-
-  - Crypto.com  
-  - OKX  
-  - Binance  
-  - Best Wallet  
+- Hong Kong → institutional gateway  
+- Singapore → fund + startup hub  
+- Japan → regulated retail market  
+- South Korea → high-volume retail trading  
 
 ---
 
-### 🔹 Key Impact
+### High-Growth Emerging Markets
 
-- Drove **user acquisition and revenue growth** across multiple markets  
-- Built **scalable content and SEO systems**  
-- Acted as **strategic advisor to clients**, aligning marketing with business goals  
+- Southeast Asia (Vietnam, Thailand, Indonesia, Malaysia)  
+- Latin America (Brazil, Argentina)  
 
----
-
-## 📊 Case Study 1  
-### 🔹 Product Marketing – Crypto Wallet (Best Wallet)
-
-**Problem**
-
-- Complex product  
-- Unclear positioning  
-- Low conversion  
+→ fast adoption, mobile-first behaviour, strong retail participation  
 
 ---
 
-**Strategy**
+## How Growth Actually Happens
 
-- Redefined product narrative  
-- Simplified messaging for mass users  
-- Built content-driven acquisition  
+### 1. Exchange-Led Distribution
 
----
-
-**Outcome**
-
-👉 Improved clarity → higher user adoption → stronger conversion  
+- listings = visibility  
+- liquidity = credibility  
 
 ---
 
-## 📊 Case Study 2  
-### 🔹 Web3 Growth System (Content Flywheel)
+### 2. Wallet-Level Access
 
-**System Design**
-
-<img width="584" height="2040" alt="growth_funnel_v2" src="https://github.com/user-attachments/assets/90b240b3-8277-4987-8734-ff2eaf60736d" />
+- onboarding happens at wallet layer  
+- UX and accessibility drive adoption  
 
 ---
 
-**Insight**
+### 3. Ecosystem & Community Layer
 
-👉 Sustainable growth is not from ads  
-👉 It comes from **distribution systems**
-
----
-
-## 📊 Case Study 3  
-### 🔹 AI / Web3 Narrative Strategy
-
-**Core Shift**
-
-Before:
-- Feature-driven messaging  
-- Technical language  
-
-After:
-- Workflow-based storytelling  
-- Clear ROI & use cases  
+- local crypto media drives awareness  
+- communities (Telegram, Discord, X) drive engagement  
 
 ---
 
-**Example**
+## Partnership Strategy
 
-Before  
-"AI-powered platform"
+### Core Partner Types
 
-After  
-"Reduce manual work by 80% with automation"
-
----
-
-## 🌍 Market Expertise
-
-- China / Hong Kong / Taiwan  
-- APAC expansion strategy  
-- Cross-cultural positioning  
+- Exchanges → distribution + liquidity  
+- Wallets → user access  
+- Media → awareness  
+- Infrastructure → long-term positioning  
 
 ---
 
-## 🛠 Tools & Stack
+### Global vs Regional Dynamics
 
-- HubSpot (CRM & automation)  
-- Google Analytics / Looker Studio  
-- Ahrefs / SEMrush  
-- WordPress  
+- Global players provide scale  
+- Regional partners provide market access  
 
----
-
-## 🎯 What I’m Interested In
-
-- Web3 accelerators & VC-backed ecosystems  
-- Product marketing for early-stage protocols  
-- Founder advisory (GTM & narrative)  
-- AI × Web3 intersection  
+Successful expansion requires combining both.
 
 ---
 
-## 📬 Contact
+## Execution Framework
 
-📧 Email: mm080678@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/amanda-wong-1b39b2140/
+1. Identify priority global and regional markets  
+2. Secure anchor partners (exchange / wallet / ecosystem)  
+3. Adapt messaging to local markets  
+4. Expand through ecosystem connections  
 
 ---
 
-## 🧠 Final Thought
+## Real-World Experience
 
-> The best Web3 companies don’t just build products.  
-> They build narratives, distribution, and belief.
+I have supported expansion initiatives across crypto projects operating in both global and APAC markets, including:
 
+- exchanges  
+- wallets  
+- token ecosystems  
 
+Working across:
+
+- Greater China  
+- Southeast Asia  
+- global teams and stakeholders  
+
+This involved:
+
+- coordinating cross-border execution  
+- aligning global strategies with local markets  
+- supporting ecosystem-driven growth initiatives  
+
+---
+
+## Key Takeaways
+
+- global strategy must adapt to local execution  
+- partnerships drive distribution across markets  
+- APAC remains one of the most important growth regions in crypto  
+
+---
+
+## About Me
+
+Amanda Wong  
+Business Development & Partnerships | Crypto / Global & APAC  
+
+I focus on ecosystem growth, cross-border expansion, and partnership strategy across global crypto markets, with deep experience in APAC.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/amanda-wong-1b39b2140/  
+Email: mm080678@gmail.com  
